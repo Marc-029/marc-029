@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,100:ff0000&height=180&section=header&text=Hi%20I'm%20Marco&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**Marc-029/marc-029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Student+learning+IT+%26+Cybersecurity" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About me
+- 📚 Currently learning **IT basics, networks and cybersecurity**
+- 🛡️ Interested in **ethical hacking / pentesting**
+- 🧪 Learning by practice on **TryHackMe**
+- 💻 Creating small **personal projects** (websites, scripts…)
+- 🎯 Goal: become a **pentester / ethical hacker**
+
+---
+
+### 🧪 TryHackMe
+<p align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Marco029.png" alt="TryHackMe Badge" />
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
